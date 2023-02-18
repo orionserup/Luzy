@@ -1,0 +1,9 @@
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/orionserup/LuzyHardware
+[submodule "models"]
+	path = models
+	url = https://github.com/orionserup/LuzyModels
+[submodule "software"]
+	path = software
+	url = https://github.com/orionserup/LuzySoftware
