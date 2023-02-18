@@ -7,3 +7,6 @@
 [submodule "software"]
 	path = software
 	url = https://github.com/orionserup/LuzySoftware
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/orionserup/LuzyFirmware
